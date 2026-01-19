@@ -54,3 +54,4 @@ The script runs continuously (non-terminating loop)
 When X/x is entered, the Python program terminates
 
 All inputs are case-insensitive
+
