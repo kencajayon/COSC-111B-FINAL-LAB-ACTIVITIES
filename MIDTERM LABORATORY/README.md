@@ -33,11 +33,11 @@ The system uses a photoresistor (LDR) to measure light intensity and automatical
 
   The sensor value is converted from 0–1023 to 0–100%.
 
-  - Low Intensity → Green LED ON
+  - Low Intensity - Green LED ON
 
-  - Medium Intensity → Yellow LED ON
+  - Medium Intensity - Yellow LED ON
 
-  - High Intensity → Red LED ON
+  - High Intensity - Red LED ON
 
 - Automatic Mode Behavior
 
