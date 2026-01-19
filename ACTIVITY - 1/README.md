@@ -17,5 +17,5 @@ Each LED is connected in series with a resistor and all grounds are connected to
 In the loop() function, the LEDs turn ON one by one starting from pin 12 to pin 8 with a 1-second delay.
 After all LEDs are ON, they turn OFF one by one in the same order.
 
-  The function digitalWrite(HIGH) is used to turn ON the LEDs and digitalWrite(LOW) is used to turn them OFF.
+- The function digitalWrite(HIGH) is used to turn ON the LEDs and digitalWrite(LOW) is used to turn them OFF.
 
